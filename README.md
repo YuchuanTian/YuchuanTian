@@ -1,5 +1,5 @@
 # Welcome! 👋
-I'm **Yuchuan Tian**, a Electronic & Computer Engineering (ECE) undergraduate at Joint Institute, Shanghai Jiao Tong University. Welcome to my Github homepage! 
+I'm **Yuchuan Tian**, an Electronic & Computer Engineering (ECE) undergraduate at Joint Institute, Shanghai Jiao Tong University. Welcome to my Github homepage! 
 
 ## Some facts about me
 - 🔭 I’m working on Analytical Super Resolution.
